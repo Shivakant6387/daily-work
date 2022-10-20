@@ -108,9 +108,47 @@ lecture 31(renaming and moving files)
 4)git mv level1-file.txt(old file) level.txt(new file)
 5)git status
 6)git add -A
-
-9)
-8)
+lecture 32 Deleting file
+1)pwd
+2)cd
+3)ls
+4)git status
+5)clear 
+6)cat doomed.txt
+7)touch file name
+8)git rm file name (doomed.txt)
+9)rm file name (doomed.txt)
+10) git commit -m "deleting"
+lecture 32
+1)pwd 
+2)git  help log
+3)cd
+4)git log
+5)git log --oneline --graph -- decorate
+6)git log --abbrev-commit
+7)git log filename 
+8)git log --follow --level1(foldername)/level2/level2.txt(filename)
+9)git show commit id
+lecture 34 git Alias
+1)pwd
+2)cd
+3)ls
+4)git status
+5)git log --all--graph --decorate --oneline
+6)git hist
+7) git config --global alias.hist "log --all --graph --decorate --oneline
+8)mate ~.gitconfig
+lecture 35 ignoring 
+1)cat .gitignore
+2)git status
+3)git commit
+4)ls
+lecture 36
+1)pwd
+2)cd
+3)ls
+4)git status
+5)git pull origin master
 
 
 
