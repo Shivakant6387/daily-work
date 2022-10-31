@@ -1,0 +1,13 @@
+today tasts		
+try		
+catch		
+throw		
+throws		
+finally		
+difference between throw and throws		
+difference between try catch and throw		
+difference between try catch and throws		
+difference between errors and exception		
+difference between runtime exception and ioexception		
+difference between finally and try catch		
+difference between finally and throw or throws		
